@@ -1,1 +1,1 @@
-web: speedy-bible -port=$PORT
+web: go-angular-jetpack -port=$PORT
